@@ -17,4 +17,20 @@ main{
 
 .btn-full{
     width: 100%;
+    text-transform: uppercase;
+}
+
+a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+h1{
+    padding: 1rem 0;
+    font-size: 1.8rem;
+}
+
+h1{
+    padding: 1.4rem 0;
+    font-size: 1.4rem;
 }
